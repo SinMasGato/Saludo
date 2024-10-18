@@ -1,0 +1,25 @@
+{
+
+    "name": "vendor/saludo",
+    "description": "Libreia Saludo v1.0.0 en PHP para generar saludos by SinMas Productions",
+    "authors": [
+    {
+    "name":"SinMas Prduction",
+    "email": "fredysinmas@gmail.com",
+    "homepage": "http://www.saludo.com"
+    
+    }
+    ],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+    "php":">=7.4"
+    },
+    "autoload": {
+    "psr-4": {
+    "Saludo\\Saludo\\": "src/"
+    }
+    }
+    
+    }
