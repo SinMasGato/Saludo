@@ -1,6 +1,6 @@
 # CakePHP 3
 
-/vendor/*
+/SinMas/*
 /config/app.php
 
 /tmp/cache/models/*
